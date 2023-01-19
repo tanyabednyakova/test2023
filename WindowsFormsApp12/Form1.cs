@@ -24,9 +24,9 @@ namespace WindowsFormsApp12
             form2.Visible = true;
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-            form2.setTextToLabel(textBox1.Text);
-        }
+        //private void textBox1_TextChanged(object sender, EventArgs e)
+        //{
+        //    form2.setTextToLabel(textBox1.Text);
+        //}
     }
 }
